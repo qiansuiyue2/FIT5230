@@ -1,14 +1,14 @@
 # FIT5230
 "FIT5230 Milestone 3 Project: OSCP - An ultra-fast, 4.46ms adversarial purification defense system
-🚀 OSCP: One-Step Control Purification - Ultra-Fast Adversarial Defense
-
-🎯 FIT5230 Milestone 3 Final Project - Light Team [Poker King]
+ OSCP: One-Step Control Purification - Ultra-Fast Adversarial Defense
+ 
+FIT5230 Milestone 3 Final Project - Light Team [Poker King]
 
 This repository contains the final code, presentation materials, and documentation for the One-Step Control Purification (OSCP) system, an adversarial defense mechanism designed to break the long-standing speed bottleneck in diffusion-based defenses.
 
 Team Members: Lu Rongqing, Yuan Cong
 
-✨ Core Project Achievements
+ Core Project Achievements
 
 Our OSCP system achieves an industry-leading balance between speed and robustness, making real-time adversarial defense feasible.
 
